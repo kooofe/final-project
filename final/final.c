@@ -73,5 +73,5 @@ module_init(init_module);
 module_exit(cleanup_module);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Akbergen Dinara, Adema Bauyrzhankyzy, Arlan Manap, Dilnaz Sadyrbayeva");
+MODULE_AUTHOR("Adema Bauyrzhankyzy, Arlan Manap, Dilnaz Sadyrbayeva");
 MODULE_DESCRIPTION("A simple example of netfilter kernel module that monitors IPv4 traffic for a specific sequence of bytes.");
